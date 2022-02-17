@@ -1,0 +1,12 @@
+{
+  "name": "usgs_date_bot",
+  "version": "1.0.0",
+  "description": "Date Bot for USGS",
+  "main": "usgs_date_bot.ts",
+  "scripts": {
+    "start": "ts-node src/usgs_date_bot.ts",
+    "test": "ts-node src/usgs_date_bot.ts"
+  },
+  "author": "pibob314",
+  "license": ""
+}
